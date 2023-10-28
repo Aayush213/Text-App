@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202609215498",
+    "project_id": "textingapp-22615",
+    "storage_bucket": "textingapp-22615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202609215498:android:a487dd48d168bf0e6277f3",
+        "android_client_info": {
+          "package_name": "com.example.textingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMDXEXi5e7k-Xdpi-EC4XyJz3l1OXuE2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
